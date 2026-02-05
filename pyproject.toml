@@ -1,0 +1,13 @@
+[project]
+name = "    datasets_dublicats"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "fiftyone==1.11.1",
+    "torch==2.10.0",
+    "torchvision==0.25.0",
+    "typer>=0.21.1",
+    "umap-learn==0.5.11",
+    "zoo>=0.1a0",
+]
